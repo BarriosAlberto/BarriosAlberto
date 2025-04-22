@@ -1,8 +1,8 @@
 ## 👋 Olá, eu sou o Alberto Gabriel Barrios
 
-🎯 **Analista de Sistemas | Desenvolvedor *
+🎯 **Analista de Sistemas Jr | Desenvolvedor **
 
-Atualmente atuando com customizações no ERP TOTVS (ADVPL), construção de dashboards no TOTVS Analytics e automações de dados com Python e SQL.
+Atualmente atuando com customizações no ERP TOTVS Protheus (ADVPL), construção de dashboards através da ferramenta TOTVS Analytics e automações de dados com Python e SQL.
 
 ---
 
@@ -10,7 +10,7 @@ Atualmente atuando com customizações no ERP TOTVS (ADVPL), construção de das
 - **ERP & Linguagens**: `ADVPL`, `TOTVS Analytics`, `SQL`, `PL/SQL`
 - **Programação & Dados**: `Python`, `Pandas`, `Oracle`, `MySQL`
 - **Front-end & Apps**: `HTML`, `CSS`, `Kotlin (Android)`
-- **Metodologias**: `Ágil`, `Scrum`, `Kanban`, `GIT`
+- **Metodologias & Versionamento**: `Scrum`, `Kanban`, `GIT`, `Ágil`
 
 ---
 
